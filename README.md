@@ -1,2 +1,2 @@
 # HTML_Calculator
-I made thissimple calculator entrely using HTML and CSS.
+I made this simple calculator entrely using HTML and CSS.
